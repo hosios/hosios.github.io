@@ -1,3 +1,4 @@
+# Chaco-OSUG
 ### Herzlich
 # Willkommen
 Willkommen auf unserer allgemeinen Open-Source-Informationsseite. Wir wollen uns darauf konzentrieren, die für unsere Region relevanten Programme bekannt zu machen. Das Ziel ist, dass es eine offene Seite ist, zu der jeder in irgendeiner Weise mit seinem Spezialgebiet beitragen kann. 

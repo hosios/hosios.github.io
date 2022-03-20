@@ -152,7 +152,7 @@ Wir haben vier Notizstile, die die Standard-Markdown-Syntax für Blockanführung
 ```
 Übergibt an:
 
-< Diese Arten von Hinweise sind nützlich, um die Aufmerksamkeit des Lesers auf etwas Wichtiges, Gefährliches oder Interessantes zu lenken.
+> Diese Arten von Hinweise sind nützlich, um die Aufmerksamkeit des Lesers auf etwas Wichtiges, Gefährliches oder Interessantes zu lenken.
 
 ### 2 `!!` für Rot
 
@@ -161,7 +161,7 @@ Wir haben vier Notizstile, die die Standard-Markdown-Syntax für Blockanführung
 ```
 Übergibt an:
 
-<< Diese Arten von Hinweise sind nützlich, um die Aufmerksamkeit des Lesers auf etwas Wichtiges, Gefährliches oder Interessantes zu lenken.
+>> Diese Arten von Hinweise sind nützlich, um die Aufmerksamkeit des Lesers auf etwas Wichtiges, Gefährliches oder Interessantes zu lenken.
 
 ### 3 `!!!` für Blau
 
